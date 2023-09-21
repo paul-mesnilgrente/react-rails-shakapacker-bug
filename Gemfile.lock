@@ -173,7 +173,7 @@ GEM
     rake (13.0.6)
     rdoc (6.5.0)
       psych (>= 4.0.0)
-    react-rails (3.1.0)
+    react-rails (3.1.1)
       babel-transpiler (>= 0.7.0)
       connection_pool
       execjs
@@ -189,7 +189,7 @@ GEM
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
     semantic_range (3.0.0)
-    shakapacker (7.0.0)
+    shakapacker (7.0.3)
       activesupport (>= 5.2)
       rack-proxy (>= 0.6.1)
       railties (>= 5.2)
@@ -231,9 +231,9 @@ DEPENDENCIES
   jbuilder
   puma (~> 5.0)
   rails (~> 7.0.8)
-  react-rails (= 3.1)
+  react-rails (= 3.1.1)
   selenium-webdriver
-  shakapacker (= 7.0)
+  shakapacker (= 7.0.3)
   sprockets-rails
   sqlite3 (~> 1.4)
   tzinfo-data
